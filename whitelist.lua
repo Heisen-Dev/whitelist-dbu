@@ -6,7 +6,7 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'VikingaSpange', 'greenblademaster1', 'king_sombra9279', 'Davigame1319', 'borutousumake9', 'IHATEPIZZA221', 'TANJIRO129939', '0xHydroxide', 
 	'nepro375', 'AnonymousDeicide', 'Silencemano4', 'Ziyadh_5', 'fran34577878', 'Thug786123', 'RehmXn12X', 'hairlinetaker', 'atlas_dbu', 'RehmXn12X', 'Thug786123',
 	'AgustinElGamer_123', 'TomyT_T2', 'zZlowl172Zz', 'Arthemis018', 'SuperhotMax11', 'SSJYBz', 'NachoG17',
-	'GameBoyIsBackNow', 'cha4pado291', 'Douvegameplays999', 'Ox_Nan'
+	'GameBoyIsBackNow', 'cha4pado291', 'Douvegameplays999', 'Ox_Nan', 'EmperorDragon_84'
 	
 }
 
