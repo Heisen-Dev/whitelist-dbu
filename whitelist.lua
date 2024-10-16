@@ -9,8 +9,6 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 
 local isBuyer = false
 local me = game:GetService('Players').LocalPlayer
-local countMaxAttempts = 10
-local countAttempts = 0
 
 
 local function checkIsBuyer()
@@ -22,12 +20,7 @@ local function checkIsBuyer()
 	end
 end
 
-while not isBuyer and countAttempts < countMaxAttempts do
+while not isBuyer do
 	checkIsBuyer()
 	countAttempts = countAttempts + 1
-	task.wait()
-end
-
-while countAttempts >= countMaxAttempts do
-	print('scammer')
 end
