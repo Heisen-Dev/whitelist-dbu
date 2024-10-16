@@ -5,15 +5,18 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'OhBruxo', 'Ohbruxinho', 'kula0_2alt', 'Kula0_2', 'Eldeom_38k', 'Rutra010201', 'HateNovaGod', 'IGOTBLACKBEARDOMG_S', 'BRUNOMAZUIM','JACK_RETALHADOR2',
 	'VikingaSpange', 'SumetRG', 'greenblademaster1', 'king_sombra9279', 'Davigame1319', 'borutousumake9', 'IHATEPIZZA221', 'TANJIRO129939', '0xHydroxide'
 }
-
-
+local isBuyer = false
 local me = game:GetService('Players').LocalPlayer
 
 
 
 
-for _, v in pairs(users) do
-	if string.lower(v) == string.lower(me.Name) then
-		print('Acceso')
+while not isBuyer do
+	for _, v in pairs(users) do
+		if string.lower(v) == string.lower(me.Name) then
+			isBuyer = true
+			break
+		end
 	end
+	task.wait()
 end
