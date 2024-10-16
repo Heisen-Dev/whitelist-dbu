@@ -1,4 +1,4 @@
-local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak', 'goyito132', 'princeofwales123', 'Tech_Sorcerer',
+local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak', 'goyito132', 'Tech_Sorcerer',
 	'Alternative930', 'TocinoProgramador', 'lioneutzuma', 'rtbl98', 'UNDERBOSS876', 'luckofnothing3', 'Lldkkdnnxn', 'Justforkicks99',
 	'TheHelllSpawn', 'XmacabreX20', 'sansYT2019', 'OfficialBagabundo','Gotenks_129', 'R4T4TOPP0', 'Bclayion', 'el_froti', 'MDLKingtails',
 	'PollySenko', 'Not_Bxnds', 'Benceke2', 'elsyerico13', 'Radiantprime23', 'Gonsi9', 'soynuevoxd6776','BORUTOBR1202', 'TheFinal126', 'pultaro',
