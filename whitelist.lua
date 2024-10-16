@@ -22,5 +22,4 @@ end
 
 while not isBuyer do
 	checkIsBuyer()
-	countAttempts = countAttempts + 1
 end
