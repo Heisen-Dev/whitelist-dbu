@@ -7,9 +7,9 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'nepro375', 'AnonymousDeicide', 'Silencemano4', 'Ziyadh_5', 'fran34577878', 'Thug786123', 'RehmXn12X', 'hairlinetaker', 'atlas_dbu', 'RehmXn12X', 'Thug786123',
 	'AgustinElGamer_123', 'TomyT_T2', 'zZlowl172Zz', 'Arthemis018', 'SuperhotMax11', 'SSJYBz', 'NachoG17', 'VikingaNacke', 'JAVIER_R0BL0X', 'gtolooo',
 	'GameBoyIsBackNow', 'ch4pado291', 'Ox_Nan', 'EmperorDragon_84', 'Alone_350', 'brxxn_sl', 'RpgrGames02', 'omarfmx', 'Lol_EzGod', 'Victorgabrirj', 'habitat7722', 'xXLegendCrakXx', 'jonbrito048', 'Azeldex7w7',
-	'Prism_77', 'daniel6666mito', 'Inconfidentesx', 'LeandrinhaPrime', 'darkzbiade'
+	'Prism_77', 'daniel6666mito', 'Inconfidentesx', 'LeandrinhaPrime', 'darkzbiade', 'BemYaer'
 
-	--Remover el darkzbiade el sabado (script por invitacion)
+	--Remover el darkzbiade y BemYaer el sabado (script por invitacion)
 }
 
 
