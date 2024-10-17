@@ -10,7 +10,7 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'Prism_77', 'daniel6666mito', 'Inconfidentesx', 'LeandrinhaPrime', 'darkzbiade', 'BemYaer', 'Dark_s777', 'mahman4975', 'nobshot4975', 'ImDabMonster', 'L4superLEGIT',
 	'sp4rk8', 'pedrolucasalvesdo8z', 'pedrolucasalvesdo8z2', 'Caleb_thedemon098', 'Douvegameplays999', 'jwn2odi2'
 
-	--Remover el darkzbiade, BemYaer, L4superLEGIT el domingo (script por invitacion)
+	--Remover el darkzbiade, BemYaer, L4superLEGIT, jwn2odi2 el domingo (script por invitacion)
 }
 
 
