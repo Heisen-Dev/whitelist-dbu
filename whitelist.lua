@@ -4,7 +4,7 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'PollySenko', 'SumetRG', 'Not_Bxnds', 'Benceke2', 'elsyerico13', 'Radiantprime23', 'Gonsi9', 'soynuevoxd6776','BORUTOBR1202', 'TheFinal126', 'pultaro',
 	'OhBruxo', 'Ohbruxinho', 'kula0_2alt', 'Kula0_2', 'Bestboy0_07', 'Rutra010201', 'HateNovaGod', 'IGOTBLACKBEARDOMG_S', 'BRUNOMAZUIM','JACK_RETALHADOR2',
 	'VikingaSpange', 'greenblademaster1', 'king_sombra9279', 'Davigame1319', 'borutousumake9', 'IHATEPIZZA221', 'TANJIRO129939', '0xHydroxide', 
-	'nepro375', 'AnonymousDeicide', 'Silencemano4', 'Ziyadh_5', 'fran34577878', 'Thug786123', 'RehmXn12X', 'hairlinetaker', 'atlas_dbu', 'RehmXn12X', 'Thug786123',
+	'nepro375', 'AnonymousDeicide', 'Silencemano4', 'Ziyadh_5', 'fran34577878', 'Thug786123', 'RehmXn12X', 'hairlinetaker', 'RehmXn12X', 'Thug786123',
 	'AgustinElGamer_123', 'TomyT_T2', 'zZlowl172Zz', 'Arthemis018', 'SuperhotMax11', 'SSJYBz', 'NachoG17', 'VikingaNacke', 'JAVIER_R0BL0X', 'gtolooo',
 	'GameBoyIsBackNow', 'ch4pado291', 'Ox_Nan', 'EmperorDragon_84', 'Alone_350', 'RpgrGames02', 'omarfmx', 'Lol_EzGod', 'Victorgabrirj', 'habitat7722', 'xXLegendCrakXx', 'jonbrito048', 'Azeldex7w7',
 	'Prism_77', 'daniel6666mito', 'Inconfidentesx', 'LeandrinhaPrime', 'darkzbiade', 'BemYaer', 'Dark_s777', 'mahman4975', 'nobshot4975', 'ImDabMonster', 'L4superLEGIT',
