@@ -9,7 +9,7 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'GameBoyIsBackNow', 'ch4pado291', 'Ox_Nan', 'EmperorDragon_84', 'Alone_350', 'RpgrGames02', 'omarfmx', 'Lol_EzGod', 'Victorgabrirj', 'habitat7722', 'xXLegendCrakXx', 'jonbrito048', 'Azeldex7w7',
 	'Prism_77', 'daniel6666mito', 'Inconfidentesx', 'LeandrinhaPrime', 'darkzbiade', 'BemYaer', 'Dark_s777', 'mahman4975', 'nobshot4975', 'ImDabMonster', 'L4superLEGIT',
 	'sp4rk8', 'pedrolucasalvesdo8z', 'pedrolucasalvesdo8z2', 'Caleb_thedemon098', 'Douvegameplays999', 'jwn2odi2', 'Lechrys06', 'rrrujdirn', 'kingdomrobloxgaming',
-	'UNWISETIME999', 'gabriel_pvp123883', 'davi157brazil2', 'Demonic_Malware', 'yupadre1234', 'morgensw', 'idosodr', 'fer507nando', 'luys_m', 'xcluxt', 'Black_Zinn0', 'Juancarlosvillo', 'DEVIL9550', 'XxjiangamingYT'
+	'UNWISETIME999', 'gabriel_pvp123883', 'davi157brazil2', 'Demonic_Malware', 'yupadre1234', 'morgensw', 'idosodr', 'fer507nando', 'luys_m', 'xcluxt', 'Black_Zinn0', 'Juancarlosvillo', 'DEVIL9550', 'XxjiangamingYT', 'mastery_123'
 
 	
 
