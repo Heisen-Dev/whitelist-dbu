@@ -11,7 +11,7 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'sp4rk8', 'pedrolucasalvesdo8z', 'pedrolucasalvesdo8z2', 'Caleb_thedemon098', 'Douvegameplays999', 'jwn2odi2', 'Lechrys06', 'rrrujdirn', 'kingdomrobloxgaming',
 	'UNWISETIME999', 'gabriel_pvp123883', 'davi157brazil2', 'Demonic_Malware', 'yupadre1234', 'morgensw', 'idosodr', 'fer507nando', 'luys_m', 'xcluxt', 'Black_Zinn0',
 	'Juancarlosvillo', 'DEVIL9550', 'XxjiangamingYT', 'mastery_123', 'Scripting_Business', 'Aus_728', 'ADRIAN1023A', 'prozin_sonhador', 'floflobosurito', 'Pwvnac', 'nicolatif6',
-	'raidenpupis', 'CandyMask63', 'Jitsu54', 'nadinhalol', 'Batata08002', 'hellboy1020304050', 'boss767766', 'Inphasejam42278', 'Faygoboy256', 'yashwant_gaming0'
+	'raidenpupis', 'CandyMask63', 'Jitsu54', 'nadinhalol', 'Batata08002', 'hellboy1020304050', 'boss767766', 'Inphasejam42278', 'Faygoboy256', 'yashwant_gaming0', 'wwliunian'
 
 	--Remover el darkzbiade, BemYaer, L4superLEGIT, jwn2odi2,Scripting_Business, yashwant_gaming0 el domingo (script por invitacion)
 }
