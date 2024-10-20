@@ -7,11 +7,10 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'nepro375', 'AnonymousDeicide', 'Silencemano4', 'Ziyadh_5', 'fran34577878', 'Thug786123', 'RehmXn12X', 'hairlinetaker', 'RehmXn12X', 'Thug786123',
 	'AgustinElGamer_123', 'TomyT_T2', 'zZlowl172Zz', 'Arthemis018', 'SuperhotMax11', 'SSJYBz', 'NachoG17', 'VikingaNacke', 'JAVIER_R0BL0X', 'gtolooo',
 	'GameBoyIsBackNow', 'ch4pado291', 'Ox_Nan', 'EmperorDragon_84', 'RpgrGames02', 'omarfmx', 'Lol_EzGod', 'Victorgabrirj', 'habitat7722', 'xXLegendCrakXx', 'Azeldex7w7',
-	'Prism_77', 'daniel6666mito', 'Inconfidentesx', 'LeandrinhaPrime', 'darkzbiade', 'BemYaer', 'Dark_s777', 'mahman4975', 'nobshot4975', 'ImDabMonster', 'L4superLEGIT',
-	'sp4rk8', 'pedrolucasalvesdo8z', 'pedrolucasalvesdo8z2', 'Caleb_thedemon098', 'Douvegameplays999', 'jwn2odi2', 'Lechrys06', 'rrrujdirn', 'kingdomrobloxgaming',
+	'Prism_77', 'daniel6666mito', 'Inconfidentesx', 'LeandrinhaPrime', 'Dark_s777', 'mahman4975', 'nobshot4975', 'ImDabMonster',
 	'UNWISETIME999', 'gabriel_pvp123883', 'davi157brazil2', 'Demonic_Malware', 'yupadre1234', 'morgensw', 'idosodr', 'fer507nando', 'luys_m', 'xcluxt', 'Black_Zinn0',
-	'Juancarlosvillo', 'DEVIL9550', 'XxjiangamingYT', 'mastery_123', 'Scripting_Business', 'Aus_728', 'ADRIAN1023A', 'prozin_sonhador', 'floflobosurito', 'Pwvnac', 'nicolatif6',
-	'raidenpupis', 'CandyMask63', 'Jitsu54', 'nadinhalol', 'Batata08002', 'hellboy1020304050', 'boss767766', 'Inphasejam42278', 'Faygoboy256', 'yashwant_gaming0', 'wwliunian', 'PaprikaBuna',
+	'Juancarlosvillo', 'DEVIL9550', 'XxjiangamingYT', 'mastery_123', 'Aus_728', 'ADRIAN1023A', 'prozin_sonhador', 'floflobosurito', 'Pwvnac', 'nicolatif6',
+	'raidenpupis', 'CandyMask63', 'Jitsu54', 'nadinhalol', 'Batata08002', 'hellboy1020304050', 'boss767766', 'Inphasejam42278', 'Faygoboy256', 'wwliunian', 'PaprikaBuna',
 	'1butkkj', 'programmer_more', 'NifraO7', 'Alone_350', 'Tablos_SpiritKiller', 'C4milo100', 'jvlt7758', 'SumetRG', 'PEDROOFF000', 'kawaiiniisama', 'Drag0ndary', 'Rodrigokzl',
 	'soynuevoxd6776', 'AL_THINGX'
 
