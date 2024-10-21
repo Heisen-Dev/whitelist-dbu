@@ -13,7 +13,7 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'raidenpupis', 'CandyMask63', 'Jitsu54', 'nadinhalol', 'Batata08002', 'hellboy1020304050', 'boss767766', 'Inphasejam42278', 'Faygoboy256', 'wwliunian', 'PaprikaBuna',
 	'1butkkj', 'programmer_more', 'NifraO7', 'Alone_350', 'Tablos_SpiritKiller', 'C4milo100', 'jvlt7758', 'PEDROOFF000', 'kawaiiniisama', 'Drag0ndary', 'Rodrigokzl',
 	'soynuevoxd6776', 'AL_THINGX', 'snowmen0273482', 'anouar2015', 'Garymdomwkdmkwmdlwm', 'GigachadHD97', 'Caleb_thedemon098', 'pedrolucasalvesdo8z', 'pedrolucasalvesdo8z2',
-	'rrrujdirn', 'jiazaoli', 'Azeldex', 'coe_ninja'
+	'rrrujdirn', 'jiazaoli', 'Azeldex', 'coe_ninja', 'kingdomrobloxgaming'
 
 	--Remover el darkzbiade, BemYaer, L4superLEGIT, jwn2odi2,Scripting_Business, yashwant_gaming0 el domingo (script por invitacion)
 }
