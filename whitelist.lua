@@ -13,7 +13,7 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbexsaak
 	'raidenpupis', 'CandyMask63', 'Jitsu54', 'nadinhalol', 'Batata08002', 'hellboy1020304050', 'boss767766', 'Inphasejam42278', 'Faygoboy256', 'wwliunian', 'PaprikaBuna',
 	'1butkkj', 'NifraO7', 'Alone_350', 'Tablos_SpiritKiller', 'C4milo100', 'jvlt7758', 'PEDROOFF000', 'kawaiiniisama', 'Drag0ndary', 'Rodrigokzl',
 	'soynuevoxd6776', 'AL_THINGX', 'snowmen0273482', 'anouar2015', 'Garymdomwkdmkwmdlwm', 'GigachadHD97', 'Caleb_thedemon098', 'pedrolucasalvesdo8z', 'pedrolucasalvesdo8z2',
-	'rrrujdirn', 'jiazaoli', 'Azeldex', 'coe_ninja', 'kingdomrobloxgaming', 'gabsi00', 'Frofro756', 'Douvegameplays999', 'Golytu', 'Paulonarro123', 'MIKEY_TMNN', 'elsyerico13', 'gabrielsfd123br', 'ruangx404'
+	'rrrujdirn', 'jiazaoli', 'Azeldex', 'coe_ninja', 'kingdomrobloxgaming', 'gabsi00', 'Frofro756', 'Douvegameplays999', 'Golytu', 'Paulonarro123', 'MIKEY_TMNN', 'elsyerico13', 'gabrielsfd123br', 'ruangx404',
 	'Zotrix443',
 	
 
