@@ -17,7 +17,7 @@ local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbex2', 
 	'Zotrix443', 'borutousumake9', 'Lucasgerrard780', 'Marcio06l', 'amendoin313', 'ErrorGamer11', 'rafael_army9', 'Jeffelop2002', 'Subaru_Badass', 'bookiesalt2',
 	'Eoxjkosjf2', 'TheFruitU', 'ENASKURD21', 'deadshot2ez', 'gimmedb4', 'OfficialBagabundo', 'Sin_Liquid', 'IAGUSPRO_131', 'NeoZz_Acer', 'bqgamerr', 'Diamondkingez8',
 	'LeGamerProVs', 'GODEATHSINGER_WAR', 'Kakashi5509812', 'DBU_One', 'Bardock_505', 'thorignacio123', '6or5starsonly', 'sebasprogtgamer', 'chisyua', '1Ikerano',
-	'Azeldex', 'narutoGamer7_yt', 'Spectre_Alt4', 'dj_231233', 'thecoolkidsforever49'
+	'Azeldex', 'narutoGamer7_yt', 'Spectre_Alt4', 'dj_231233', 'thecoolkidsforever49', 'BrokenHearted_A'
 }
 
 
