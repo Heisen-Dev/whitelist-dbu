@@ -1,5 +1,5 @@
 local users = {'YaEsta_EnUs0', 'chicles20191', '32Wex23', '23Wex32', 'derbex2', 'goyito132', 'Chicken28308J',
-	'Alternative930', 'TocinoProgramador', 'lioneutzuma', 'rtbl98', 'UNDERBOSS876', 'luckofnothing3', 'Lldkkdnnxn', 'Justforkicks99',
+	'Alternative930', 'TocinoProgramador', 'lioneutzuma', 'rtbl98', 'luckofnothing3', 'Lldkkdnnxn', 'Justforkicks99',
 	'TheHelllSpawn', 'XmacabreX20', 'sansYT2019', 'R4T4TOPP0', 'el_froti', 'Pwenoiwoieoirerere',
 	'PollySenko', 'Not_Bxnds', 'Benceke2', 'Radiantprime23', 'Gonsi9','BORUTOBR1202', 'TheFinal126', 'pultaro',
 	'OhBruxo', 'Ohbruxinho', 'kula0_2alt', 'Kula0_2', 'Bestboy0_07', 'Rutao_Gameplays', 'HateNovaGod', 'IGOTBLACKBEARDOMG_S', 'BRUNOMAZUIM','JACK_RETALHADOR2',
